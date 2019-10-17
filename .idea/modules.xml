@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/web-proxy-x-ns-proxy-autoconfig.iml" filepath="$PROJECT_DIR$/web-proxy-x-ns-proxy-autoconfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/x-ns-proxy-autoconfig-web/x-ns-proxy-autoconfig-web.iml" filepath="$PROJECT_DIR$/x-ns-proxy-autoconfig-web/x-ns-proxy-autoconfig-web.iml" />
+    </modules>
+  </component>
+</project>
